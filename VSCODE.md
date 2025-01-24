@@ -131,27 +131,27 @@ Após a instalação, verifique se o Node.js, npm e npx foram instalados correta
 
 ## Resumo de atividades
 - [ ] Instalar e configurar as seguintes extensões no VSCode:
-    - [ ] **Code Spell Checker**: Habilitar suporte para correção em português brasileiro.
-    - [ ] **Prettier**: Configurar formatação automática de código.
+    - [x] **Code Spell Checker**: Habilitar suporte para correção em português brasileiro.
+    - [x] **Prettier**: Configurar formatação automática de código.
     - [ ] **Docker**: Configurar para gerenciar contêineres no projeto.
     - [ ] **Dev Containers**: Criar ambiente de desenvolvimento isolado com `.devcontainer`.
-    - [ ] **GitHub Pull Requests**: Revisar e gerenciar solicitações de pull.
-    - [ ] **Git Lens**: Habilitar funcionalidades avançadas do Git.
-    - [ ] **GitHub Copilot**: Ativar para autocompletar com IA.
+    - [x] **GitHub Pull Requests**: Revisar e gerenciar solicitações de pull.
+    - [x] **Git Lens**: Habilitar funcionalidades avançadas do Git.
+    - [x] **GitHub Copilot**: Ativar para autocompletar com IA.
     - [ ] **Rest Client**: Testar endpoints de APIs diretamente no VSCode.
-    - [ ] **Live Share**: Configurar para colaboração em tempo real.
+    - [x] **Live Share**: Configurar para colaboração em tempo real.
     - [ ] **Figma for VSCode**: Navegar e inspecionar arquivos de design no editor.
     - [ ] **SonarQube for IDE**: Detectar problemas de codificação em tempo real.
-    - [ ] **ESLint**: Configurar análise estática do código.
-- [ ] Ativar backup e sincronização das configurações no VSCode
-- [ ] Habilitar autosave do VSCode
-- [ ] Habilitar opção de Selecionar texto no terminal com o mouse
-- [ ] Instalar React Developer Tools
-- [ ] Preparar ambiente para React
-  - [ ] Instalar Node, NPM e NVM no ambiente de desenvolvimento
-  - [ ] Verificar instalações:
-    - [ ] `node -v`
-    - [ ] `npm -v`
-    - [ ] `npx -v`
+    - [x] **ESLint**: Configurar análise estática do código.
+- [x] Ativar backup e sincronização das configurações no VSCode
+- [x] Habilitar autosave do VSCode
+- [x] Habilitar opção de Selecionar texto no terminal com o mouse
+- [x] Instalar React Developer Tools
+- [x] Preparar ambiente para React
+  - [x] Instalar Node, NPM e NVM no ambiente de desenvolvimento
+  - [x] Verificar instalações:
+    - [x] `node -v`
+    - [x] `npm -v`
+    - [x] `npx -v`
 
 
